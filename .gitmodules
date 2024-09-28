@@ -1,0 +1,6 @@
+[submodule "predict-dot-loan/lib/forge-std"]
+	path = predict-dot-loan/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "predict-dot-loan/lib/ds-test"]
+	path = predict-dot-loan/lib/ds-test
+	url = https://github.com/dapphub/ds-test
