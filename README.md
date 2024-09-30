@@ -8,13 +8,3 @@
 # Q&A
 
 # Audit scope
-
-
-[predict-dot-loan @ 22aa0e8d12a53ccbc322371d575b8042cadc26e3](https://github.com/PredictDotFun/predict-dot-loan/tree/22aa0e8d12a53ccbc322371d575b8042cadc26e3)
-- [predict-dot-loan/contracts/BlastPredictDotLoan.sol](predict-dot-loan/contracts/BlastPredictDotLoan.sol)
-- [predict-dot-loan/contracts/PredictDotLoan.sol](predict-dot-loan/contracts/PredictDotLoan.sol)
-- [predict-dot-loan/contracts/interfaces/IPredictDotLoan.sol](predict-dot-loan/contracts/interfaces/IPredictDotLoan.sol)
-- [predict-dot-loan/contracts/libraries/InterestLib.sol](predict-dot-loan/contracts/libraries/InterestLib.sol)
-- [predict-dot-loan/contracts/libraries/NegRiskIdLib.sol](predict-dot-loan/contracts/libraries/NegRiskIdLib.sol)
-
-
