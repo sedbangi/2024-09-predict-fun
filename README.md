@@ -40,7 +40,7 @@ ___
 ### Q: For permissioned functions, please list all checks and requirements that will be made before calling the function.
 - refinance (batch) can only be called by callers with the role REFINANCIER_ROLE
 
-- updateMinimumOrderFeeRate, updateProtocolFeeRecipient, updateProtocolFeeBasisPoints, withdrawERC20, togglePaused can only be called by callers with the role DEFAULT_ADMIN_ROLE
+- updateMinimumOrderFeeRate, updateProtocolFeeRecipient, updateProtocolFeeBasisPoints, togglePaused can only be called by callers with the role DEFAULT_ADMIN_ROLE
 
 ___
 
